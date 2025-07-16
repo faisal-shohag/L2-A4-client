@@ -3,7 +3,7 @@ import type { IBook, IBorrow, IBorrowSummary } from "@/types";
 
 export const api = createApi({
   reducerPath: "api",
-  baseQuery: fetchBaseQuery({ baseUrl: "http://localhost:5000/api" }),
+  baseQuery: fetchBaseQuery({ baseUrl: "https://l2-a4-server-two.vercel.app/api" }),
   tagTypes: ["Books", "Borrows"],
   endpoints: (builder) => ({
     getBooks: builder.query<IBook[], void>({
