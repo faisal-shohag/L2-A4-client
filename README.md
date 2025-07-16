@@ -1,6 +1,6 @@
 # Butterfly Library Management System 
 
-[![logo.png](https://i.postimg.cc/BvZBZncZ/logo.png)](https://postimg.cc/sM8hwyNb)
+<img height="100px" src="https://i.postimg.cc/BvZBZncZ/logo.png" alt="logo"/>
 
 ## Overview
 The Minimal Library Management System is a web application built to manage a library's book inventory and borrowing process. It allows users to view, add, edit, delete, and borrow books, as well as view a summary of borrowed books. The application is designed with a clean, responsive UI and integrates with a RESTful API for seamless data management. Developed using modern web technologies, it emphasizes type safety, state management, and user-friendly interactions without requiring authentication.
