@@ -10,7 +10,7 @@ export default function Navbar() {
   };
 
   return (
-    <nav className="bg-white shadow-md">
+    <nav className="bg-white  border-b">
       <div className="container mx-auto px-4 py-4 md:px-8 flex justify-between items-center">
         <NavLink to="/" className="text-xl font-bold text-gray-800 flex items-center gap-2">
           <img className="h-8" src="./logo.png" alt="Butterfly Logo" />
